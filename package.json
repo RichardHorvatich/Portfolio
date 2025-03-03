@@ -2,6 +2,7 @@
   "name": "react-site",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://richardhorvatich.github.io/Portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
